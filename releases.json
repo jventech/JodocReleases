@@ -1,20 +1,20 @@
 {
   "$schema": "https://jodoc.xyz/schemas/releases.json",
-  "generated": "2026-03-10T07:37:24Z",
+  "generated": "2026-03-10T11:24:48Z",
   "client": {
     "windows": {
-      "version": "1.23.7",
-      "tag": "client-v1.23.7",
+      "version": "1.23.8",
+      "tag": "client-v1.23.8",
       "assets": {
         "installer": {
           "name": "Jodoc-win-Setup.exe",
-          "url": "https://github.com/jventech/JodocReleases/releases/download/client-v1.23.7/Jodoc-win-Setup.exe",
-          "size": 76592119
+          "url": "https://github.com/jventech/JodocReleases/releases/download/client-v1.23.8/Jodoc-win-Setup.exe",
+          "size": 76592107
         },
         "portable": {
           "name": "Jodoc-win-Portable.zip",
-          "url": "https://github.com/jventech/JodocReleases/releases/download/client-v1.23.7/Jodoc-win-Portable.zip",
-          "size": 74009146
+          "url": "https://github.com/jventech/JodocReleases/releases/download/client-v1.23.8/Jodoc-win-Portable.zip",
+          "size": 74009134
         }
       }
     }
