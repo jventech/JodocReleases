@@ -1,6 +1,6 @@
 {
   "$schema": "https://jodoc.xyz/schemas/releases.json",
-  "generated": "2026-06-04T11:34:52Z",
+  "generated": "2026-06-04T11:35:21Z",
   "client": {
     "windows": {
       "version": "1.27.1",
@@ -32,7 +32,7 @@
       }
     },
     "docker": {
-      "version": "1.9.0",
+      "version": "1.9.1",
       "image": "jventech/jodoc-server",
       "tag": "latest"
     }
