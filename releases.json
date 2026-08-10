@@ -1,6 +1,6 @@
 {
   "$schema": "https://jodoc.xyz/schemas/releases.json",
-  "generated": "2026-08-09T19:27:43Z",
+  "generated": "2026-08-10T22:42:54Z",
   "client": {
     "windows": {
       "version": "1.37.0",
@@ -34,16 +34,16 @@
   },
   "server": {
     "windows": {
-      "version": "1.16.0",
-      "tag": "server-v1.16.0",
+      "version": "1.17.0",
+      "tag": "server-v1.17.0",
       "assets": {
         "msi": {
           "name": "JodocServer-Setup.msi",
-          "url": "https://github.com/jventech/JodocReleases/releases/download/server-v1.16.0/JodocServer-Setup.msi",
-          "size": 120028734
+          "url": "https://github.com/jventech/JodocReleases/releases/download/server-v1.17.0/JodocServer-Setup.msi",
+          "size": 120049214
         }
       },
-      "released": "2026-08-09T19:26:36Z"
+      "released": "2026-08-10T22:42:54Z"
     },
     "docker": {
       "version": "1.16.0",
