@@ -20,16 +20,16 @@
       "released": "2026-08-11T22:56:54Z"
     },
     "linux": {
-      "version": "1.38.0",
-      "tag": "client-v1.38.0",
+      "version": "1.39.0",
+      "tag": "client-v1.39.0",
       "assets": {
         "appimage": {
           "name": "Jodoc.AppImage",
-          "url": "https://github.com/jventech/JodocReleases/releases/download/client-v1.38.0/Jodoc.AppImage",
+          "url": "https://github.com/jventech/JodocReleases/releases/download/client-v1.39.0/Jodoc.AppImage",
           "size": 76089848
         }
       },
-      "released": "2026-08-10T22:44:37Z"
+      "released": "2026-08-11T22:58:45Z"
     }
   },
   "server": {
